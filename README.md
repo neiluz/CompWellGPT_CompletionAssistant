@@ -1,4 +1,6 @@
 # 🛢️ CompWellGPT - Asistente en Completación de Pozos Petroleros
+![CompWellGPT Banner](https://raw.githubusercontent.com/neiluz/CompWellGPT_CompletionAssistant/main/ChatGPT%20Image%206%20jul%202025%2C%2022_23_47.png)
+
 
 **CompWellGPT** es un asistente inteligente diseñado para apoyar a ingenieros y especialistas en el análisis técnico-operativo de pozos petroleros. Utiliza inteligencia artificial para interpretar documentos, detectar patrones operativos, generar recomendaciones y responder preguntas sobre datos reales de completación y producción.
 
@@ -72,6 +74,7 @@ streamlit run app/main.py
 
 ## 🧠 ¿Qué hace el asistente?
 
+- Usa una base con documentos técnicos relevantes para ofrecer respuestas basadas en contexto real
 - Lee archivos de producción y clasificación de pozos
 - Procesa datos operacionales e identifica problemas
 - Responde en lenguaje natural sobre pozos, fallas, inactividad o estrategias técnicas
@@ -81,14 +84,6 @@ streamlit run app/main.py
   - Fracturas mal ejecutadas
   - Daños en tubing o válvulas
   - Pozos inyectores ineficientes
-
----
-
-## 📈 Datos simulados incluidos
-
-- Producción de más de 100 pozos con crudo, agua, gas, % de corte de agua y % de arena
-- Problemas operacionales categorizados
-- Clasificación técnica de pozos del campo Penedès
 
 ---
 
