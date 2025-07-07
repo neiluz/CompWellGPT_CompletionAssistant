@@ -1,0 +1,26 @@
+# 🔐 Archivos con claves y secretos
+.env
+.streamlit/secrets.toml
+
+# 🧪 Entornos virtuales
+venv/
+env/
+.venv/
+
+# 📦 Python compilado y metadata
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 🗃️ Archivos temporales del sistema
+.DS_Store
+*.log
+*.tmp
+*.bak
+*.swp
+.cache/
+*.ipynb_checkpoints
+
+# 🚀 Salidas o configuraciones locales
+logs/
+outputs/
