@@ -25,9 +25,6 @@ CompWellGPT/
 │   └── main.py                  # App principal en Streamlit
 │
 ├── data/
-│   ├── Produccion_de_Pozos_Ampliada.csv
-│   ├── problemas_operacionales_simulados.csv
-│   └── clasificacion_pozos_penedes.csv
 │
 ├── utils/
 │   └── openai_assistant.py      # Funciones para conectar con la API de OpenAI
